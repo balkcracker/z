@@ -1,0 +1,1287 @@
+#EXTM3U
+#EXTINF:0,BBC1 UK
+http://clientportal.link:8080/live/demo/12345/3580.m3u8
+#EXTINF:0,BBC2 UK
+http://clientportal.link:8080/live/demo/12345/3581.m3u8
+#EXTINF:0,CBeebies UK
+http://clientportal.link:8080/live/demo/12345/3582.m3u8
+#EXTINF:0,ITV1 UK
+http://clientportal.link:8080/live/demo/12345/3576.m3u8
+#EXTINF:0,ITV2 UK
+http://clientportal.link:8080/live/demo/12345/3577.m3u8
+#EXTINF:0,ITV3 UK
+http://clientportal.link:8080/live/demo/12345/3578.m3u8
+#EXTINF:0,ITV4 UK
+http://clientportal.link:8080/live/demo/12345/3579.m3u8
+#EXTINF:0,ITVBe UK
+http://clientportal.link:8080/live/demo/12345/9587.m3u8
+#EXTINF:0,ITV Encore UK
+http://clientportal.link:8080/live/demo/12345/8076.m3u8
+#EXTINF:0,Channel 4 London UK
+http://clientportal.link:8080/live/demo/12345/2681.m3u8
+#EXTINF:0,Channel 4 Northern Ireland UK
+http://clientportal.link:8080/live/demo/12345/14887.m3u8
+#EXTINF:0,Channel 4 +1 London UK
+http://clientportal.link:8080/live/demo/12345/14895.m3u8
+#EXTINF:0,Channel 4 +1 Northern Ireland UK
+http://clientportal.link:8080/live/demo/12345/14891.m3u8
+#EXTINF:0,Channel 5 UK
+http://clientportal.link:8080/live/demo/12345/2680.m3u8
+#EXTINF:0,4seven UK
+http://clientportal.link:8080/live/demo/12345/3961.m3u8
+#EXTINF:0,E4 UK
+http://clientportal.link:8080/live/demo/12345/2674.m3u8
+#EXTINF:0,E4 +1 UK
+http://clientportal.link:8080/live/demo/12345/14880.m3u8
+#EXTINF:0,More4 UK
+http://clientportal.link:8080/live/demo/12345/4000.m3u8
+#EXTINF:0,More4 +1 UK
+http://clientportal.link:8080/live/demo/12345/14871.m3u8
+#EXTINF:0,5STAR UK
+http://clientportal.link:8080/live/demo/12345/9908.m3u8
+#EXTINF:0,5USA UK
+http://clientportal.link:8080/live/demo/12345/2652.m3u8
+#EXTINF:0,Dave UK
+http://clientportal.link:8080/live/demo/12345/14967.m3u8
+#EXTINF:0,Dave Ireland UK
+http://clientportal.link:8080/live/demo/12345/1987.m3u8
+#EXTINF:0,Dave ja vu UK
+http://clientportal.link:8080/live/demo/12345/11424.m3u8
+#EXTINF:0,GOLD UK
+http://clientportal.link:8080/live/demo/12345/14963.m3u8
+#EXTINF:0,Gold Ireland UK
+http://clientportal.link:8080/live/demo/12345/1977.m3u8
+#EXTINF:0,W UK
+http://clientportal.link:8080/live/demo/12345/14946.m3u8
+#EXTINF:0,W Ireland UK
+http://clientportal.link:8080/live/demo/12345/11427.m3u8
+#EXTINF:0,Alibi UK
+http://clientportal.link:8080/live/demo/12345/14974.m3u8
+#EXTINF:0,Alibi Ireland UK
+http://clientportal.link:8080/live/demo/12345/3954.m3u8
+#EXTINF:0,Really UK
+http://clientportal.link:8080/live/demo/12345/3947.m3u8
+#EXTINF:0,RTÉ One UK
+http://clientportal.link:8080/live/demo/12345/1966.m3u8
+#EXTINF:0,RTÉ2 UK
+http://clientportal.link:8080/live/demo/12345/1967.m3u8
+#EXTINF:0,TG4 UK
+http://clientportal.link:8080/live/demo/12345/4005.m3u8
+#EXTINF:0,3e UK
+http://clientportal.link:8080/live/demo/12345/3953.m3u8
+#EXTINF:0,Pick UK
+http://clientportal.link:8080/live/demo/12345/3958.m3u8
+#EXTINF:0,TLC UK
+http://clientportal.link:8080/live/demo/12345/4027.m3u8
+#EXTINF:0,London Live UK
+http://clientportal.link:8080/live/demo/12345/14958.m3u8
+#EXTINF:0,Horror Channel UK
+http://clientportal.link:8080/live/demo/12345/3941.m3u8
+#EXTINF:0,Syfy UK
+http://clientportal.link:8080/live/demo/12345/3939.m3u8
+#EXTINF:0,Spike UK
+http://clientportal.link:8080/live/demo/12345/11428.m3u8
+#EXTINF:0,CBS Action UK
+http://clientportal.link:8080/live/demo/12345/3944.m3u8
+#EXTINF:0,CBS Reality UK
+http://clientportal.link:8080/live/demo/12345/3946.m3u8
+#EXTINF:0,CBS Drama UK
+http://clientportal.link:8080/live/demo/12345/3945.m3u8
+#EXTINF:0,Drama UK
+http://clientportal.link:8080/live/demo/12345/3957.m3u8
+#EXTINF:0,FOX UK
+http://clientportal.link:8080/live/demo/12345/2656.m3u8
+#EXTINF:0,E! UK
+http://clientportal.link:8080/live/demo/12345/3966.m3u8
+#EXTINF:0,Tru TV 1 UK
+http://clientportal.link:8080/live/demo/12345/14863.m3u8
+#EXTINF:0,Sky 1 UK
+http://clientportal.link:8080/live/demo/12345/3571.m3u8
+#EXTINF:0,Sky 2 UK
+http://clientportal.link:8080/live/demo/12345/3573.m3u8
+#EXTINF:0,Sky Living UK
+http://clientportal.link:8080/live/demo/12345/3567.m3u8
+#EXTINF:0,Sky Atlantic UK
+http://clientportal.link:8080/live/demo/12345/3562.m3u8
+#EXTINF:0,Sky Arts UK
+http://clientportal.link:8080/live/demo/12345/1963.m3u8
+#EXTINF:0,Comedy Central UK
+http://clientportal.link:8080/live/demo/12345/3948.m3u8
+#EXTINF:0,Comedy Central Extra UK
+http://clientportal.link:8080/live/demo/12345/2668.m3u8
+#EXTINF:0,Sony Channel UK
+http://clientportal.link:8080/live/demo/12345/12349.m3u8
+#EXTINF:0,Sony HD IN
+http://clientportal.link:8080/live/demo/12345/6221.m3u8
+#EXTINF:0,Sky Movies Premiere UK
+http://clientportal.link:8080/live/demo/12345/1958.m3u8
+#EXTINF:0,Sky Movies Action & Adventure HD UK
+http://clientportal.link:8080/live/demo/12345/1961.m3u8
+#EXTINF:0,Sky Movies Action & Adventure UK
+http://clientportal.link:8080/live/demo/12345/3559.m3u8
+#EXTINF:0,Sky Movies Comedy  UK
+http://clientportal.link:8080/live/demo/12345/3563.m3u8
+#EXTINF:0,Sky Movies Crime & Thriller UK
+http://clientportal.link:8080/live/demo/12345/1955.m3u8
+#EXTINF:0,Sky Movies Disney UK
+http://clientportal.link:8080/live/demo/12345/3927.m3u8
+#EXTINF:0,Sky Movies Drama & Romance  UK
+http://clientportal.link:8080/live/demo/12345/1960.m3u8
+#EXTINF:0,Sky Movies Family  UK
+http://clientportal.link:8080/live/demo/12345/3926.m3u8
+#EXTINF:0,Sky Movies Family UK
+http://clientportal.link:8080/live/demo/12345/3566.m3u8
+#EXTINF:0,Sky Movies Greats UK
+http://clientportal.link:8080/live/demo/12345/1959.m3u8
+#EXTINF:0,Sky Movies Sci-Fi & Horror HD uk
+http://clientportal.link:8080/live/demo/12345/1957.m3u8
+#EXTINF:0,Film4 UK
+http://clientportal.link:8080/live/demo/12345/1979.m3u8
+#EXTINF:0,Film4  +1 UK
+http://clientportal.link:8080/live/demo/12345/14879.m3u8
+#EXTINF:0,True Movies 1 UK
+http://clientportal.link:8080/live/demo/12345/2661.m3u8
+#EXTINF:0,True Movies 2 UK
+http://clientportal.link:8080/live/demo/12345/2662.m3u8
+#EXTINF:0,True Ent UK
+http://clientportal.link:8080/live/demo/12345/14859.m3u8
+#EXTINF:0,True Ent +1 UK
+http://clientportal.link:8080/live/demo/12345/14858.m3u8
+#EXTINF:0,True Crime UK
+http://clientportal.link:8080/live/demo/12345/14861.m3u8
+#EXTINF:0,True Crime +1 UK
+http://clientportal.link:8080/live/demo/12345/14860.m3u8
+#EXTINF:0,Movies4Men UK
+http://clientportal.link:8080/live/demo/12345/1971.m3u8
+#EXTINF:0,BBC News UK
+http://clientportal.link:8080/live/demo/12345/4020.m3u8
+#EXTINF:0,Sky News UK
+http://clientportal.link:8080/live/demo/12345/3570.m3u8
+#EXTINF:0,FOX News UK
+http://clientportal.link:8080/live/demo/12345/11429.m3u8
+#EXTINF:0,CNN UK
+http://clientportal.link:8080/live/demo/12345/3995.m3u8
+#EXTINF:0,euronews UK
+http://clientportal.link:8080/live/demo/12345/14964.m3u8
+#EXTINF:0,RTÉ News Now UK
+http://clientportal.link:8080/live/demo/12345/11423.m3u8
+#EXTINF:0,TVC News UK
+http://clientportal.link:8080/live/demo/12345/14950.m3u8
+#EXTINF:0,TVC News +1 UK
+http://clientportal.link:8080/live/demo/12345/14949.m3u8
+#EXTINF:0,CCTV News UK
+http://clientportal.link:8080/live/demo/12345/14970.m3u8
+#EXTINF:0,Forces TV UK
+http://clientportal.link:8080/live/demo/12345/12354.m3u8
+#EXTINF:0,Bloomberg TV UK
+http://clientportal.link:8080/live/demo/12345/8298.m3u8
+#EXTINF:0,CNBC UK
+http://clientportal.link:8080/live/demo/12345/14968.m3u8
+#EXTINF:0,Dunya News UK
+http://clientportal.link:8080/live/demo/12345/14881.m3u8
+#EXTINF:0,Discovery Channel UK
+http://clientportal.link:8080/live/demo/12345/1986.m3u8
+#EXTINF:0,Discovery History UK
+http://clientportal.link:8080/live/demo/12345/1985.m3u8
+#EXTINF:0,Discovery World UK
+http://clientportal.link:8080/live/demo/12345/2678.m3u8
+#EXTINF:0,Discovery Turbo UK
+http://clientportal.link:8080/live/demo/12345/3978.m3u8
+#EXTINF:0,Discovery Science UK
+http://clientportal.link:8080/live/demo/12345/2679.m3u8
+#EXTINF:0,Discovery Investigation UK
+http://clientportal.link:8080/live/demo/12345/3982.m3u8
+#EXTINF:0,DMAX UK
+http://clientportal.link:8080/live/demo/12345/1983.m3u8
+#EXTINF:0,National Geographic UK
+http://clientportal.link:8080/live/demo/12345/3561.m3u8
+#EXTINF:0,Nat Geo Wild UK
+http://clientportal.link:8080/live/demo/12345/1968.m3u8
+#EXTINF:0,History UK
+http://clientportal.link:8080/live/demo/12345/3976.m3u8
+#EXTINF:0,H2 UK
+http://clientportal.link:8080/live/demo/12345/3569.m3u8
+#EXTINF:0,Animal Planet UK
+http://clientportal.link:8080/live/demo/12345/2683.m3u8
+#EXTINF:0,Yesterday UK
+http://clientportal.link:8080/live/demo/12345/3962.m3u8
+#EXTINF:0,Home UK
+http://clientportal.link:8080/live/demo/12345/14961.m3u8
+#EXTINF:0,Home Ireland UK
+http://clientportal.link:8080/live/demo/12345/3993.m3u8
+#EXTINF:0,Home & Leisure UK
+http://clientportal.link:8080/live/demo/12345/14960.m3u8
+#EXTINF:0,Eden UK
+http://clientportal.link:8080/live/demo/12345/14965.m3u8
+#EXTINF:0,QUEST UK
+http://clientportal.link:8080/live/demo/12345/3959.m3u8
+#EXTINF:0,Good Food UK
+http://clientportal.link:8080/live/demo/12345/3990.m3u8
+#EXTINF:0,Food Network UK
+http://clientportal.link:8080/live/demo/12345/3991.m3u8
+#EXTINF:0,Food Netwrk +1 UK
+http://clientportal.link:8080/live/demo/12345/14878.m3u8
+#EXTINF:0,PBS America UK
+http://clientportal.link:8080/live/demo/12345/14870.m3u8
+#EXTINF:0,Nick Jr. UK
+http://clientportal.link:8080/live/demo/12345/2669.m3u8
+#EXTINF:0,Disney Channel UK
+http://clientportal.link:8080/live/demo/12345/1984.m3u8
+#EXTINF:0,Disney XD UK
+http://clientportal.link:8080/live/demo/12345/2675.m3u8
+#EXTINF:0,Disney Junior UK
+http://clientportal.link:8080/live/demo/12345/3969.m3u8
+#EXTINF:0,POP UK
+http://clientportal.link:8080/live/demo/12345/14869.m3u8
+#EXTINF:0,POP +1 UK
+http://clientportal.link:8080/live/demo/12345/14868.m3u8
+#EXTINF:0,POP MAX UK
+http://clientportal.link:8080/live/demo/12345/14867.m3u8
+#EXTINF:0,Tiny Pop UK
+http://clientportal.link:8080/live/demo/12345/9898.m3u8
+#EXTINF:0,Kix UK
+http://clientportal.link:8080/live/demo/12345/14876.m3u8
+#EXTINF:0,Kix +1 UK
+http://clientportal.link:8080/live/demo/12345/14875.m3u8
+#EXTINF:0,Cartoon Network UK
+http://clientportal.link:8080/live/demo/12345/3967.m3u8
+#EXTINF:0,Boomerang UK
+http://clientportal.link:8080/live/demo/12345/1962.m3u8
+#EXTINF:0,Baby TV UK
+http://clientportal.link:8080/live/demo/12345/11425.m3u8
+#EXTINF:0,MTV UK
+http://clientportal.link:8080/live/demo/12345/2670.m3u8
+#EXTINF:0,VH1 UK
+http://clientportal.link:8080/live/demo/12345/3943.m3u8
+#EXTINF:0,Box Hits UK
+http://clientportal.link:8080/live/demo/12345/1953.m3u8
+#EXTINF:0,BOX Upfront UK
+http://clientportal.link:8080/live/demo/12345/4014.m3u8
+#EXTINF:0,4Music UK
+http://clientportal.link:8080/live/demo/12345/1951.m3u8
+#EXTINF:0,Magic UK
+http://clientportal.link:8080/live/demo/12345/14872.m3u8
+#EXTINF:0,Flava UK
+http://clientportal.link:8080/live/demo/12345/3565.m3u8
+#EXTINF:0,Kerrang! TV UK
+http://clientportal.link:8080/live/demo/12345/12353.m3u8
+#EXTINF:0,Kiss UK
+http://clientportal.link:8080/live/demo/12345/1952.m3u8
+#EXTINF:0,Chart Show TV UK
+http://clientportal.link:8080/live/demo/12345/14884.m3u8
+#EXTINF:0,Chartshow Hits UK
+http://clientportal.link:8080/live/demo/12345/14883.m3u8
+#EXTINF:0,Sky Sports 1 UK
+http://clientportal.link:8080/live/demo/12345/3593.m3u8
+#EXTINF:0,Sky Sports 2 UK
+http://clientportal.link:8080/live/demo/12345/3595.m3u8
+#EXTINF:0,Sky Sports 3 UK
+http://clientportal.link:8080/live/demo/12345/3597.m3u8
+#EXTINF:0,Sky Sports 4 UK
+http://clientportal.link:8080/live/demo/12345/3599.m3u8
+#EXTINF:0,Sky Sports 5 UK
+http://clientportal.link:8080/live/demo/12345/3601.m3u8
+#EXTINF:0,Sky Sports F1 UK
+http://clientportal.link:8080/live/demo/12345/3602.m3u8
+#EXTINF:0,Eurosport 1 UK
+http://clientportal.link:8080/live/demo/12345/3590.m3u8
+#EXTINF:0,Eurosport 2 UK
+http://clientportal.link:8080/live/demo/12345/3591.m3u8
+#EXTINF:0,Premier Sports UK
+http://clientportal.link:8080/live/demo/12345/3584.m3u8
+#EXTINF:0,eir Sport 1 UK
+http://clientportal.link:8080/live/demo/12345/12343.m3u8
+#EXTINF:0,eir Sport 2 UK
+http://clientportal.link:8080/live/demo/12345/12344.m3u8
+#EXTINF:0,BT Sport 1 UK
+http://clientportal.link:8080/live/demo/12345/3586.m3u8
+#EXTINF:0,BT Sport 2 UK
+http://clientportal.link:8080/live/demo/12345/3588.m3u8
+#EXTINF:0,BT Sport 3 UK
+http://clientportal.link:8080/live/demo/12345/1965.m3u8
+#EXTINF:0,BT Sport ESPN UK
+http://clientportal.link:8080/live/demo/12345/2673.m3u8
+#EXTINF:0,BT Sport EXTRA UK
+http://clientportal.link:8080/live/demo/12345/2682.m3u8
+#EXTINF:0,GINX eSportsTV UK
+http://clientportal.link:8080/live/demo/12345/3583.m3u8
+#EXTINF:0,At the Races UK
+http://clientportal.link:8080/live/demo/12345/1997.m3u8
+#EXTINF:0,Motors TV UK
+http://clientportal.link:8080/live/demo/12345/4009.m3u8
+#EXTINF:0,BoxNation UK
+http://clientportal.link:8080/live/demo/12345/4010.m3u8
+#EXTINF:0,Racing UK
+http://clientportal.link:8080/live/demo/12345/3585.m3u8
+#EXTINF:0,Chelsea TV UK
+http://clientportal.link:8080/live/demo/12345/1990.m3u8
+#EXTINF:0,Liverpool FC TV UK
+http://clientportal.link:8080/live/demo/12345/3568.m3u8
+#EXTINF:0,AIT Int'l UK
+http://clientportal.link:8080/live/demo/12345/14976.m3u8
+#EXTINF:0,ARY QTV UK
+http://clientportal.link:8080/live/demo/12345/14900.m3u8
+#EXTINF:0,Akaal Channel UK
+http://clientportal.link:8080/live/demo/12345/14975.m3u8
+#EXTINF:0,BBC Red Button 1 UK
+http://clientportal.link:8080/live/demo/12345/1996.m3u8
+#EXTINF:0,BBC1 Wales UK
+http://clientportal.link:8080/live/demo/12345/12355.m3u8
+#EXTINF:0,BEN UK
+http://clientportal.link:8080/live/demo/12345/14972.m3u8
+#EXTINF:0,British Muslim UK
+http://clientportal.link:8080/live/demo/12345/14971.m3u8
+#EXTINF:0,c4 l UK
+http://clientportal.link:8080/live/demo/12345/14896.m3u8
+#EXTINF:0,CITV UK
+http://clientportal.link:8080/live/demo/12345/9588.m3u8
+#EXTINF:0,Channel 4 Midlands UK
+http://clientportal.link:8080/live/demo/12345/14889.m3u8
+#EXTINF:0,Channel 4 +1 Midlands UK
+http://clientportal.link:8080/live/demo/12345/14894.m3u8
+#EXTINF:0,Channel 4 North UK
+http://clientportal.link:8080/live/demo/12345/14888.m3u8
+#EXTINF:0,Channel 4 +1 North UK
+http://clientportal.link:8080/live/demo/12345/14892.m3u8
+#EXTINF:0,Channel 4 Scotland UK
+http://clientportal.link:8080/live/demo/12345/14886.m3u8
+#EXTINF:0,Channel 4 +1 Scotland UK
+http://clientportal.link:8080/live/demo/12345/14890.m3u8
+#EXTINF:0,Channel 4 South & East UK
+http://clientportal.link:8080/live/demo/12345/14885.m3u8
+#EXTINF:0,Channel 4 +1 South & East UK
+http://clientportal.link:8080/live/demo/12345/14893.m3u8
+#EXTINF:0,Channel i UK
+http://clientportal.link:8080/live/demo/12345/14969.m3u8
+#EXTINF:0,Colors UK
+http://clientportal.link:8080/live/demo/12345/1988.m3u8
+#EXTINF:0,Craft Extra UK
+http://clientportal.link:8080/live/demo/12345/14882.m3u8
+#EXTINF:0,DM Plus TV UK
+http://clientportal.link:8080/live/demo/12345/14966.m3u8
+#EXTINF:0,ETV1 UK
+http://clientportal.link:8080/live/demo/12345/10195.m3u8
+#EXTINF:0,Gems TV UK
+http://clientportal.link:8080/live/demo/12345/14877.m3u8
+#EXTINF:0,Hidayat TV UK
+http://clientportal.link:8080/live/demo/12345/14962.m3u8
+#EXTINF:0,IQRA BANGLA UK
+http://clientportal.link:8080/live/demo/12345/14959.m3u8
+#EXTINF:0,Madani Channel UK
+http://clientportal.link:8080/live/demo/12345/14957.m3u8
+#EXTINF:0,Made In Bristol UK
+http://clientportal.link:8080/live/demo/12345/14874.m3u8
+#EXTINF:0,Made In Leeds UK
+http://clientportal.link:8080/live/demo/12345/14873.m3u8
+#EXTINF:0,Made In Tn&Wr UK
+http://clientportal.link:8080/live/demo/12345/14956.m3u8
+#EXTINF:0,Notts TV UK
+http://clientportal.link:8080/live/demo/12345/14955.m3u8
+#EXTINF:0,ROK UK
+http://clientportal.link:8080/live/demo/12345/14954.m3u8
+#EXTINF:0,Real Lives UK
+http://clientportal.link:8080/live/demo/12345/11430.m3u8
+#EXTINF:0,STV Edinburgh UK
+http://clientportal.link:8080/live/demo/12345/14953.m3u8
+#EXTINF:0,STV Glasgow UK
+http://clientportal.link:8080/live/demo/12345/14952.m3u8
+#EXTINF:0,Scuzz UK
+http://clientportal.link:8080/live/demo/12345/14866.m3u8
+#EXTINF:0,Star Gold UK
+http://clientportal.link:8080/live/demo/12345/12351.m3u8
+#EXTINF:0,Star Jalsha UK
+http://clientportal.link:8080/live/demo/12345/12352.m3u8
+#EXTINF:0,Star Life OK UK
+http://clientportal.link:8080/live/demo/12345/12350.m3u8
+#EXTINF:0,Starz TV UK
+http://clientportal.link:8080/live/demo/12345/14865.m3u8
+#EXTINF:0,The Vault UK
+http://clientportal.link:8080/live/demo/12345/14864.m3u8
+#EXTINF:0,Times Now UK
+http://clientportal.link:8080/live/demo/12345/14951.m3u8
+#EXTINF:0,True Christmas +1 UK
+http://clientportal.link:8080/live/demo/12345/14857.m3u8
+#EXTINF:0,UTV Ireland UK
+http://clientportal.link:8080/live/demo/12345/11426.m3u8
+#EXTINF:0,V Channel UK
+http://clientportal.link:8080/live/demo/12345/14948.m3u8
+#EXTINF:0,Venus TV UK
+http://clientportal.link:8080/live/demo/12345/14947.m3u8
+#EXTINF:0,YourTV UK
+http://clientportal.link:8080/live/demo/12345/14856.m3u8
+#EXTINF:0,Sky Net Sports UK
+http://clientportal.link:8080/live/demo/12345/13515.m3u8
+#EXTINF:0,Sky Net Sports 1 UK
+http://clientportal.link:8080/live/demo/12345/13514.m3u8
+#EXTINF:0,Sky Net Sports 2 UK
+http://clientportal.link:8080/live/demo/12345/10919.m3u8
+#EXTINF:0,Sky Net Sports 3 UK
+http://clientportal.link:8080/live/demo/12345/10918.m3u8
+#EXTINF:0,Sky Net Sports 4 UK
+http://clientportal.link:8080/live/demo/12345/10917.m3u8
+#EXTINF:0,Sky Net Sports 5 UK
+http://clientportal.link:8080/live/demo/12345/10916.m3u8
+#EXTINF:0,Sky Net Sports 6 UK
+http://clientportal.link:8080/live/demo/12345/10915.m3u8
+#EXTINF:0,Mio Sports 7 UK
+http://clientportal.link:8080/live/demo/12345/10914.m3u8
+#EXTINF:0,Mio Sports 8 UK
+http://clientportal.link:8080/live/demo/12345/10913.m3u8
+#EXTINF:0,PREMIER 1 UK (match time)
+http://clientportal.link:8080/live/demo/12345/13087.m3u8
+#EXTINF:0,PREMIER 2 UK (match time)
+http://clientportal.link:8080/live/demo/12345/13088.m3u8
+#EXTINF:0,PREMIER 3 UK (match time)
+http://clientportal.link:8080/live/demo/12345/13089.m3u8
+#EXTINF:0,PREMIER 4 UK (match time)
+http://clientportal.link:8080/live/demo/12345/13090.m3u8
+#EXTINF:0,ASTRO SuperSport 1 UK
+http://clientportal.link:8080/live/demo/12345/8010.m3u8
+#EXTINF:0,ASTRO SuperSport 2 UK
+http://clientportal.link:8080/live/demo/12345/8011.m3u8
+#EXTINF:0,ASTRO SuperSport 3 UK
+http://clientportal.link:8080/live/demo/12345/8012.m3u8
+#EXTINF:0,ASTRO SuperSport 4 UK
+http://clientportal.link:8080/live/demo/12345/8013.m3u8
+#EXTINF:0,Eurosport 1 HD UK
+http://clientportal.link:8080/live/demo/12345/13091.m3u8
+#EXTINF:0,Eurosport 2 HD UK
+http://clientportal.link:8080/live/demo/12345/13092.m3u8
+#EXTINF:0,Setanta UK
+http://clientportal.link:8080/live/demo/12345/13093.m3u8
+#EXTINF:0,Bein Sports UK
+http://clientportal.link:8080/live/demo/12345/13504.m3u8
+#EXTINF:0,NBC E.P.L XTRA 1 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/demo/12345/8403.m3u8
+#EXTINF:0,NBC E.P.L XTRA 2 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/demo/12345/8404.m3u8
+#EXTINF:0,NBC E.P.L XTRA 3 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/demo/12345/8405.m3u8
+#EXTINF:0,NBC E.P.L XTRA 4 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/demo/12345/8406.m3u8
+#EXTINF:0,NBC E.P.L XTRA 5 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/demo/12345/8407.m3u8
+#EXTINF:0,NBC E.P.L XTRA 6 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/demo/12345/8408.m3u8
+#EXTINF:0,NBC E.P.L XTRA 7 (LIVE DURING EPL)  UK
+http://clientportal.link:8080/live/demo/12345/8409.m3u8
+#EXTINF:0,NBCSN Golf Channel US
+http://clientportal.link:8080/live/demo/12345/13687.m3u8
+#EXTINF:0,Showtime West US
+http://clientportal.link:8080/live/demo/12345/13668.m3u8
+#EXTINF:0,Showtime Showcase US
+http://clientportal.link:8080/live/demo/12345/13669.m3u8
+#EXTINF:0,Showtime US
+http://clientportal.link:8080/live/demo/12345/13666.m3u8
+#EXTINF:0,Showtime Extreme US
+http://clientportal.link:8080/live/demo/12345/13670.m3u8
+#EXTINF:0,ABC HD US
+http://clientportal.link:8080/live/demo/12345/9026.m3u8
+#EXTINF:0,A&E US
+http://clientportal.link:8080/live/demo/12345/10350.m3u8
+#EXTINF:0,Showtime Beyond US
+http://clientportal.link:8080/live/demo/12345/13671.m3u8
+#EXTINF:0,Showtime 2 US
+http://clientportal.link:8080/live/demo/12345/13667.m3u8
+#EXTINF:0,Cinemax East US
+http://clientportal.link:8080/live/demo/12345/13680.m3u8
+#EXTINF:0,MoreMAX US
+http://clientportal.link:8080/live/demo/12345/13683.m3u8
+#EXTINF:0,ActionMAX US
+http://clientportal.link:8080/live/demo/12345/13682.m3u8
+#EXTINF:0,5 StarMAX US
+http://clientportal.link:8080/live/demo/12345/13681.m3u8
+#EXTINF:0,HBO Family US
+http://clientportal.link:8080/live/demo/12345/13686.m3u8
+#EXTINF:0,HBO East US
+http://clientportal.link:8080/live/demo/12345/13685.m3u8
+#EXTINF:0,HBO 2 US
+http://clientportal.link:8080/live/demo/12345/13684.m3u8
+#EXTINF:0,Starz West US
+http://clientportal.link:8080/live/demo/12345/13678.m3u8
+#EXTINF:0,Starz Kids & Family US
+http://clientportal.link:8080/live/demo/12345/13674.m3u8
+#EXTINF:0,Starz In Black US
+http://clientportal.link:8080/live/demo/12345/13673.m3u8
+#EXTINF:0,Starz Encore US
+http://clientportal.link:8080/live/demo/12345/13672.m3u8
+#EXTINF:0,Starz Edge US
+http://clientportal.link:8080/live/demo/12345/13677.m3u8
+#EXTINF:0,Starz East US
+http://clientportal.link:8080/live/demo/12345/13679.m3u8
+#EXTINF:0,Starz Comedy US
+http://clientportal.link:8080/live/demo/12345/13675.m3u8
+#EXTINF:0,Starz Cinema US
+http://clientportal.link:8080/live/demo/12345/13676.m3u8
+#EXTINF:0,WWE Net Pak US
+http://clientportal.link:8080/live/demo/12345/9075.m3u8
+#EXTINF:0,USA Network HD US
+http://clientportal.link:8080/live/demo/12345/13105.m3u8
+#EXTINF:0,TSN5 US
+http://clientportal.link:8080/live/demo/12345/9036.m3u8
+#EXTINF:0,TSN4 US
+http://clientportal.link:8080/live/demo/12345/9035.m3u8
+#EXTINF:0,TSN3 US
+http://clientportal.link:8080/live/demo/12345/9034.m3u8
+#EXTINF:0,TSN2 US
+http://clientportal.link:8080/live/demo/12345/9033.m3u8
+#EXTINF:0,TSN1 US
+http://clientportal.link:8080/live/demo/12345/9032.m3u8
+#EXTINF:0,TNT HD US
+http://clientportal.link:8080/live/demo/12345/13094.m3u8
+#EXTINF:0,TBS US
+http://clientportal.link:8080/live/demo/12345/13106.m3u8
+#EXTINF:0,Syfy HD US
+http://clientportal.link:8080/live/demo/12345/13095.m3u8
+#EXTINF:0,Star z Cinema US
+http://clientportal.link:8080/live/demo/12345/9027.m3u8
+#EXTINF:0,Sportsnet Ontario US
+http://clientportal.link:8080/live/demo/12345/10345.m3u8
+#EXTINF:0,Sportsnet World US
+http://clientportal.link:8080/live/demo/12345/10342.m3u8
+#EXTINF:0,Sportsnet One US
+http://clientportal.link:8080/live/demo/12345/10344.m3u8
+#EXTINF:0,Univision Deportes US
+http://clientportal.link:8080/live/demo/12345/10343.m3u8
+#EXTINF:0,Sportsnet 360 US
+http://clientportal.link:8080/live/demo/12345/10700.m3u8
+#EXTINF:0,Spike US
+http://clientportal.link:8080/live/demo/12345/13107.m3u8
+#EXTINF:0,Space US
+http://clientportal.link:8080/live/demo/12345/9085.m3u8
+#EXTINF:0,Nick US
+http://clientportal.link:8080/live/demo/12345/9012.m3u8
+#EXTINF:0,NFL Network US
+http://clientportal.link:8080/live/demo/12345/9077.m3u8
+#EXTINF:0,NBC Sports Network US
+http://clientportal.link:8080/live/demo/12345/9008.m3u8
+#EXTINF:0,NBC US
+http://clientportal.link:8080/live/demo/12345/9009.m3u8
+#EXTINF:0,NBA TV US
+http://clientportal.link:8080/live/demo/12345/9010.m3u8
+#EXTINF:0,ViceLand US
+http://clientportal.link:8080/live/demo/12345/10698.m3u8
+#EXTINF:0,MLB Network US
+http://clientportal.link:8080/live/demo/12345/10699.m3u8
+#EXTINF:0,Lifetime HD US
+http://clientportal.link:8080/live/demo/12345/13096.m3u8
+#EXTINF:0,Lifetime US
+http://clientportal.link:8080/live/demo/12345/9078.m3u8
+#EXTINF:0,HIFI US
+http://clientportal.link:8080/live/demo/12345/9014.m3u8
+#EXTINF:0,HBO ZoneUS
+http://clientportal.link:8080/live/demo/12345/9015.m3u8
+#EXTINF:0,HBO Signature US
+http://clientportal.link:8080/live/demo/12345/9016.m3u8
+#EXTINF:0,HBO Comedy US
+http://clientportal.link:8080/live/demo/12345/9017.m3u8
+#EXTINF:0,HBO 1 US
+http://clientportal.link:8080/live/demo/12345/9018.m3u8
+#EXTINF:0,Hallmark Channel US
+http://clientportal.link:8080/live/demo/12345/9025.m3u8
+#EXTINF:0,H2 US
+http://clientportal.link:8080/live/demo/12345/9019.m3u8
+#EXTINF:0,Golf Channel US
+http://clientportal.link:8080/live/demo/12345/9080.m3u8
+#EXTINF:0,Golf Channel HD US
+http://clientportal.link:8080/live/demo/12345/9020.m3u8
+#EXTINF:0,FXX HD US
+http://clientportal.link:8080/live/demo/12345/13097.m3u8
+#EXTINF:0,FX HD US
+http://clientportal.link:8080/live/demo/12345/13098.m3u8
+#EXTINF:0,Freeform US
+http://clientportal.link:8080/live/demo/12345/13099.m3u8
+#EXTINF:0,beIN SPORTS En Español US
+http://clientportal.link:8080/live/demo/12345/9084.m3u8
+#EXTINF:0,FOX Sports 2 US
+http://clientportal.link:8080/live/demo/12345/9030.m3u8
+#EXTINF:0,FOX Sports 1 US
+http://clientportal.link:8080/live/demo/12345/9031.m3u8
+#EXTINF:0,FOX News HD US
+http://clientportal.link:8080/live/demo/12345/13100.m3u8
+#EXTINF:0,FOX Sports HD US
+http://clientportal.link:8080/live/demo/12345/9076.m3u8
+#EXTINF:0,ESPN 1 US
+http://clientportal.link:8080/live/demo/12345/9023.m3u8
+#EXTINF:0,E! US
+http://clientportal.link:8080/live/demo/12345/9021.m3u8
+#EXTINF:0,DIY Network HD US
+http://clientportal.link:8080/live/demo/12345/13101.m3u8
+#EXTINF:0,ESPN 2 US
+http://clientportal.link:8080/live/demo/12345/9022.m3u8
+#EXTINF:0,Comedy Central HD US
+http://clientportal.link:8080/live/demo/12345/13102.m3u8
+#EXTINF:0,CNN US
+http://clientportal.link:8080/live/demo/12345/9029.m3u8
+#EXTINF:0,CNBC US
+http://clientportal.link:8080/live/demo/12345/9028.m3u8
+#EXTINF:0,CBS Reality US
+http://clientportal.link:8080/live/demo/12345/10346.m3u8
+#EXTINF:0,CBS HD US
+http://clientportal.link:8080/live/demo/12345/10347.m3u8
+#EXTINF:0,CBS Drama US
+http://clientportal.link:8080/live/demo/12345/10348.m3u8
+#EXTINF:0,TNT US
+http://clientportal.link:8080/live/demo/12345/15366.m3u8
+#EXTINF:0,CBS Action US
+http://clientportal.link:8080/live/demo/12345/10349.m3u8
+#EXTINF:0,Cartoon Network HD US
+http://clientportal.link:8080/live/demo/12345/13103.m3u8
+#EXTINF:0,C-SPAN 3 US
+http://clientportal.link:8080/live/demo/12345/10703.m3u8
+#EXTINF:0,C-SPAN 2 US
+http://clientportal.link:8080/live/demo/12345/10702.m3u8
+#EXTINF:0,C-SPAN 1 US
+http://clientportal.link:8080/live/demo/12345/10701.m3u8
+#EXTINF:0,Bravo US
+http://clientportal.link:8080/live/demo/12345/10704.m3u8
+#EXTINF:0,beIN SPORTS US
+http://clientportal.link:8080/live/demo/12345/9013.m3u8
+#EXTINF:0,AMC HD US
+http://clientportal.link:8080/live/demo/12345/13104.m3u8
+#EXTINF:0,MY9 US
+http://clientportal.link:8080/live/demo/12345/15713.m3u8
+#EXTINF:0,OWN US
+http://clientportal.link:8080/live/demo/12345/16295.m3u8
+#EXTINF:0,Joshua vs Klitschko
+http://clientportal.link:8080/live/demo/12345/16301.m3u8
+#EXTINF:0,Joshua vs Klitschko HD
+http://clientportal.link:8080/live/demo/12345/16300.m3u8
+#EXTINF:0,Joshua vs Klitschko HD 1080P
+http://clientportal.link:8080/live/demo/12345/16299.m3u8
+#EXTINF:0,BBC1 HD UK
+http://clientportal.link:8080/live/demo/12345/1994.m3u8
+#EXTINF:0,BBC2 HD UK
+http://clientportal.link:8080/live/demo/12345/12347.m3u8
+#EXTINF:0,CBBC UK
+http://clientportal.link:8080/live/demo/12345/14677.m3u8
+#EXTINF:0,CBBC HD UK
+http://clientportal.link:8080/live/demo/12345/12348.m3u8
+#EXTINF:0,BBC4 UK
+http://clientportal.link:8080/live/demo/12345/14702.m3u8
+#EXTINF:0,BBC4 HD UK
+http://clientportal.link:8080/live/demo/12345/1993.m3u8
+#EXTINF:0,CBeebies HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14676.m3u8
+#EXTINF:0,ITV HD UK
+http://clientportal.link:8080/live/demo/12345/1995.m3u8
+#EXTINF:0,ITV2 HD UK
+http://clientportal.link:8080/live/demo/12345/12345.m3u8
+#EXTINF:0,ITV2+1 UK
+http://clientportal.link:8080/live/demo/12345/14712.m3u8
+#EXTINF:0,ITV3 HD UK
+http://clientportal.link:8080/live/demo/12345/14292.m3u8
+#EXTINF:0,ITV3+1 UK
+http://clientportal.link:8080/live/demo/12345/14711.m3u8
+#EXTINF:0,ITV4 HD UK
+http://clientportal.link:8080/live/demo/12345/12346.m3u8
+#EXTINF:0,ITV4+1 UK
+http://clientportal.link:8080/live/demo/12345/14671.m3u8
+#EXTINF:0,ITVBe+1 UK
+http://clientportal.link:8080/live/demo/12345/14710.m3u8
+#EXTINF:0,Inside HD UK
+http://clientportal.link:8080/live/demo/12345/14293.m3u8
+#EXTINF:0,ITV Encore+1 UK
+http://clientportal.link:8080/live/demo/12345/14721.m3u8
+#EXTINF:0,Channel 5HD UK
+http://clientportal.link:8080/live/demo/12345/14728.m3u8
+#EXTINF:0,Channel 5+1 UK
+http://clientportal.link:8080/live/demo/12345/14729.m3u8
+#EXTINF:0,Channel 44 UK
+http://clientportal.link:8080/live/demo/12345/15055.m3u8
+#EXTINF:0,5 STAR+1 UK
+http://clientportal.link:8080/live/demo/12345/14732.m3u8
+#EXTINF:0,5 USA+1 UK
+http://clientportal.link:8080/live/demo/12345/14731.m3u8
+#EXTINF:0,GOLD +1 UK
+http://clientportal.link:8080/live/demo/12345/14836.m3u8
+#EXTINF:0,W +1 UK
+http://clientportal.link:8080/live/demo/12345/14815.m3u8
+#EXTINF:0,alibi +1 UK
+http://clientportal.link:8080/live/demo/12345/14851.m3u8
+#EXTINF:0,RT. One UK
+http://clientportal.link:8080/live/demo/12345/14930.m3u8
+#EXTINF:0,RT. One +1 UK
+http://clientportal.link:8080/live/demo/12345/14929.m3u8
+#EXTINF:0,RT.2 UK
+http://clientportal.link:8080/live/demo/12345/14928.m3u8
+#EXTINF:0,TV3 UK
+http://clientportal.link:8080/live/demo/12345/14735.m3u8
+#EXTINF:0,TV3 +1 UK
+http://clientportal.link:8080/live/demo/12345/14924.m3u8
+#EXTINF:0,Pick +1  UK
+http://clientportal.link:8080/live/demo/12345/14758.m3u8
+#EXTINF:0,TLC +1 UK
+http://clientportal.link:8080/live/demo/12345/14819.m3u8
+#EXTINF:0,Horror ch +1  UK
+http://clientportal.link:8080/live/demo/12345/14774.m3u8
+#EXTINF:0,Syfy +1  UK
+http://clientportal.link:8080/live/demo/12345/14786.m3u8
+#EXTINF:0,VICELAND UK
+http://clientportal.link:8080/live/demo/12345/14923.m3u8
+#EXTINF:0,Vintage TV UK
+http://clientportal.link:8080/live/demo/12345/14780.m3u8
+#EXTINF:0,BET  UK
+http://clientportal.link:8080/live/demo/12345/14848.m3u8
+#EXTINF:0,CBS Reality +1 UK
+http://clientportal.link:8080/live/demo/12345/14776.m3u8
+#EXTINF:0,E! +1  UK
+http://clientportal.link:8080/live/demo/12345/14802.m3u8
+#EXTINF:0,Lifetime UK
+http://clientportal.link:8080/live/demo/12345/14759.m3u8
+#EXTINF:0,Lifetime +1 UK
+http://clientportal.link:8080/live/demo/12345/14940.m3u8
+#EXTINF:0,Challenge UK
+http://clientportal.link:8080/live/demo/12345/14945.m3u8
+#EXTINF:0,Challenge +1 UK
+http://clientportal.link:8080/live/demo/12345/14944.m3u8
+#EXTINF:0,Sky1 +1 UK
+http://clientportal.link:8080/live/demo/12345/14738.m3u8
+#EXTINF:0,Sky2 (a) UK
+http://clientportal.link:8080/live/demo/12345/14737.m3u8
+#EXTINF:0,Sky Atlantic +1 UK
+http://clientportal.link:8080/live/demo/12345/14757.m3u8
+#EXTINF:0,Sky Sports Box Office  UK
+http://clientportal.link:8080/live/demo/12345/14756.m3u8
+#EXTINF:0,Sky Christmas UK
+http://clientportal.link:8080/live/demo/12345/15047.m3u8
+#EXTINF:0,Sky Hits  UK
+http://clientportal.link:8080/live/demo/12345/14755.m3u8
+#EXTINF:0,Sky Living +1  UK
+http://clientportal.link:8080/live/demo/12345/14754.m3u8
+#EXTINF:0,Sky Premier +1 UK
+http://clientportal.link:8080/live/demo/12345/14766.m3u8
+#EXTINF:0,ComedyCentral +1 UK
+http://clientportal.link:8080/live/demo/12345/14847.m3u8
+#EXTINF:0,ComedyXtra UK
+http://clientportal.link:8080/live/demo/12345/14762.m3u8
+#EXTINF:0,ComedyXtra +1 UK
+http://clientportal.link:8080/live/demo/12345/14845.m3u8
+#EXTINF:0,Universal UK
+http://clientportal.link:8080/live/demo/12345/14783.m3u8
+#EXTINF:0,Universal +1  UK
+http://clientportal.link:8080/live/demo/12345/14782.m3u8
+#EXTINF:0,Sony Channel +1 UK
+http://clientportal.link:8080/live/demo/12345/14791.m3u8
+#EXTINF:0,Sony Movies UK
+http://clientportal.link:8080/live/demo/12345/14790.m3u8
+#EXTINF:0,Sony Movies +1 UK
+http://clientportal.link:8080/live/demo/12345/14789.m3u8
+#EXTINF:0,Sky Movies Select UK
+http://clientportal.link:8080/live/demo/12345/14765.m3u8
+#EXTINF:0,mov4men +1 UK
+http://clientportal.link:8080/live/demo/12345/14798.m3u8
+#EXTINF:0,Movies 24 UK
+http://clientportal.link:8080/live/demo/12345/14797.m3u8
+#EXTINF:0,TCM UK
+http://clientportal.link:8080/live/demo/12345/14736.m3u8
+#EXTINF:0,TCM +1  UK
+http://clientportal.link:8080/live/demo/12345/14785.m3u8
+#EXTINF:0,AMC from BT UK
+http://clientportal.link:8080/live/demo/12345/14779.m3u8
+#EXTINF:0,BBC NEWS HD 1080p UK
+http://clientportal.link:8080/live/demo/12345/14701.m3u8
+#EXTINF:0,BBC Parliament UK
+http://clientportal.link:8080/live/demo/12345/14681.m3u8
+#EXTINF:0,Sky Sports News HD UK
+http://clientportal.link:8080/live/demo/12345/1954.m3u8
+#EXTINF:0,RT UK
+http://clientportal.link:8080/live/demo/12345/14821.m3u8
+#EXTINF:0,RT HD UK
+http://clientportal.link:8080/live/demo/12345/3923.m3u8
+#EXTINF:0,CNC World UK
+http://clientportal.link:8080/live/demo/12345/15050.m3u8
+#EXTINF:0,Disc Science +1 UK
+http://clientportal.link:8080/live/demo/12345/14842.m3u8
+#EXTINF:0,Discovery +1 UK
+http://clientportal.link:8080/live/demo/12345/14770.m3u8
+#EXTINF:0,Discovery History +1 UK
+http://clientportal.link:8080/live/demo/12345/14843.m3u8
+#EXTINF:0,Discovery Home&Health UK
+http://clientportal.link:8080/live/demo/12345/14833.m3u8
+#EXTINF:0,Discovery Shed UK
+http://clientportal.link:8080/live/demo/12345/14841.m3u8
+#EXTINF:0,DMAX +1 UK
+http://clientportal.link:8080/live/demo/12345/14840.m3u8
+#EXTINF:0,Nat Geo +1 UK
+http://clientportal.link:8080/live/demo/12345/14938.m3u8
+#EXTINF:0,History +1 UK
+http://clientportal.link:8080/live/demo/12345/14941.m3u8
+#EXTINF:0,Animal Planet +1 UK
+http://clientportal.link:8080/live/demo/12345/14850.m3u8
+#EXTINF:0,YESTERDAY +1 UK
+http://clientportal.link:8080/live/demo/12345/14814.m3u8
+#EXTINF:0,Home +1 UK
+http://clientportal.link:8080/live/demo/12345/14834.m3u8
+#EXTINF:0,Eden +1 UK
+http://clientportal.link:8080/live/demo/12345/14839.m3u8
+#EXTINF:0,Crime Investigation UK
+http://clientportal.link:8080/live/demo/12345/14943.m3u8
+#EXTINF:0,Crime Investigation +1 UK
+http://clientportal.link:8080/live/demo/12345/14942.m3u8
+#EXTINF:0,QUEST +1 UK
+http://clientportal.link:8080/live/demo/12345/14823.m3u8
+#EXTINF:0,Good Food  +1
+http://clientportal.link:8080/live/demo/12345/14835.m3u8
+#EXTINF:0,Travel Channel UK
+http://clientportal.link:8080/live/demo/12345/14818.m3u8
+#EXTINF:0,Travel Channel +1 UK
+http://clientportal.link:8080/live/demo/12345/14784.m3u8
+#EXTINF:0,Nickelodeon UK
+http://clientportal.link:8080/live/demo/12345/14825.m3u8
+#EXTINF:0,Nickelodeon +1 UK
+http://clientportal.link:8080/live/demo/12345/14937.m3u8
+#EXTINF:0,Nicktoons UK
+http://clientportal.link:8080/live/demo/12345/14824.m3u8
+#EXTINF:0,Nick Jr Peppa UK
+http://clientportal.link:8080/live/demo/12345/14828.m3u8
+#EXTINF:0,Nick Jr +1 UK
+http://clientportal.link:8080/live/demo/12345/14829.m3u8
+#EXTINF:0,Disney Channel +1  UK
+http://clientportal.link:8080/live/demo/12345/14761.m3u8
+#EXTINF:0,Disney XD +1  UK
+http://clientportal.link:8080/live/demo/12345/14760.m3u8
+#EXTINF:0,Cartoon Network+1 UK
+http://clientportal.link:8080/live/demo/12345/14727.m3u8
+#EXTINF:0,Cartoonito UK
+http://clientportal.link:8080/live/demo/12345/14763.m3u8
+#EXTINF:0,Boomerang+1 UK
+http://clientportal.link:8080/live/demo/12345/14730.m3u8
+#EXTINF:0,MTV +1 UK
+http://clientportal.link:8080/live/demo/12345/14768.m3u8
+#EXTINF:0,MTV Music UK
+http://clientportal.link:8080/live/demo/12345/7316.m3u8
+#EXTINF:0,MTV Music +1 UK
+http://clientportal.link:8080/live/demo/12345/14767.m3u8
+#EXTINF:0,MTV Dance UK
+http://clientportal.link:8080/live/demo/12345/7318.m3u8
+#EXTINF:0,MTV Classic UK
+http://clientportal.link:8080/live/demo/12345/7320.m3u8
+#EXTINF:0,MTV Base UK
+http://clientportal.link:8080/live/demo/12345/7319.m3u8
+#EXTINF:0,MTV Hits UK
+http://clientportal.link:8080/live/demo/12345/7317.m3u8
+#EXTINF:0,MTV Rocks UK
+http://clientportal.link:8080/live/demo/12345/7315.m3u8
+#EXTINF:0,CAPITAL TV UK
+http://clientportal.link:8080/live/demo/12345/15056.m3u8
+#EXTINF:0,Heart TV UK
+http://clientportal.link:8080/live/demo/12345/15037.m3u8
+#EXTINF:0,ViVa UK
+http://clientportal.link:8080/live/demo/12345/7322.m3u8
+#EXTINF:0,Clubland TV UK
+http://clientportal.link:8080/live/demo/12345/15051.m3u8
+#EXTINF:0,Chilled TV UK
+http://clientportal.link:8080/live/demo/12345/15053.m3u8
+#EXTINF:0,Sky Sports 1 HD UK
+http://clientportal.link:8080/live/demo/12345/5600.m3u8
+#EXTINF:0,SKY SPORTS 1 HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14651.m3u8
+#EXTINF:0,Sky Sports 2 HD UK
+http://clientportal.link:8080/live/demo/12345/5601.m3u8
+#EXTINF:0,SKY SPORTS 2 HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14652.m3u8
+#EXTINF:0,Sky Sports 3 HD UK
+http://clientportal.link:8080/live/demo/12345/3598.m3u8
+#EXTINF:0,SKY SPORTS 3 HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14653.m3u8
+#EXTINF:0,Sky Sports 4 HD UK
+http://clientportal.link:8080/live/demo/12345/3600.m3u8
+#EXTINF:0,SKY SPORTS 4 HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14654.m3u8
+#EXTINF:0,Sky Sports 5 HD UK
+http://clientportal.link:8080/live/demo/12345/4458.m3u8
+#EXTINF:0,SKY SPORTS 5 HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14655.m3u8
+#EXTINF:0,Sky Sports F1 HD UK
+http://clientportal.link:8080/live/demo/12345/3603.m3u8
+#EXTINF:0,SKY SPORTS F1 HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14656.m3u8
+#EXTINF:0,Sky Sports Mix UK
+http://clientportal.link:8080/live/demo/12345/14926.m3u8
+#EXTINF:0,Sky Sports Mix HD UK
+http://clientportal.link:8080/live/demo/12345/14902.m3u8
+#EXTINF:0,Premier HD UK
+http://clientportal.link:8080/live/demo/12345/1981.m3u8
+#EXTINF:0,BT Sport 1 HD UK
+http://clientportal.link:8080/live/demo/12345/1991.m3u8
+#EXTINF:0,BT SPORTS 1 HD 1080P
+http://clientportal.link:8080/live/demo/12345/14657.m3u8
+#EXTINF:0,BT Sport 2 HD UK
+http://clientportal.link:8080/live/demo/12345/1992.m3u8
+#EXTINF:0,BT SPORTS 2 HD 1080P
+http://clientportal.link:8080/live/demo/12345/14658.m3u8
+#EXTINF:0,BT SPORTS 3 HD 1080P
+http://clientportal.link:8080/live/demo/12345/14659.m3u8
+#EXTINF:0,BT Sport Espn HD UK
+http://clientportal.link:8080/live/demo/12345/1980.m3u8
+#EXTINF:0,BT Sport Extra 1  UK
+http://clientportal.link:8080/live/demo/12345/14778.m3u8
+#EXTINF:0,BT Sport Extra 2 UK
+http://clientportal.link:8080/live/demo/12345/14809.m3u8
+#EXTINF:0,BT Sport Extra 3 UK
+http://clientportal.link:8080/live/demo/12345/14808.m3u8
+#EXTINF:0,BT Sport Extra 4 UK
+http://clientportal.link:8080/live/demo/12345/14807.m3u8
+#EXTINF:0,BT Sport Extra 6 UK
+http://clientportal.link:8080/live/demo/12345/14806.m3u8
+#EXTINF:0,BT Sport Mosaic UK
+http://clientportal.link:8080/live/demo/12345/14777.m3u8
+#EXTINF:0,BT Sport Mosaic 2 UK
+http://clientportal.link:8080/live/demo/12345/14805.m3u8
+#EXTINF:0,BT Sports 3 HD
+http://clientportal.link:8080/live/demo/12345/14903.m3u8
+#EXTINF:0,Horse & Country UK
+http://clientportal.link:8080/live/demo/12345/14832.m3u8
+#EXTINF:0,Bike UK
+http://clientportal.link:8080/live/demo/12345/14811.m3u8
+#EXTINF:0,MUTV UK
+http://clientportal.link:8080/live/demo/12345/14939.m3u8
+#EXTINF:0,MUTV HD UK
+http://clientportal.link:8080/live/demo/12345/2655.m3u8
+#EXTINF:0,&tv HD UK
+http://clientportal.link:8080/live/demo/12345/15062.m3u8
+#EXTINF:0,AAJ TAK UK
+http://clientportal.link:8080/live/demo/12345/14854.m3u8
+#EXTINF:0,ABN TV UK
+http://clientportal.link:8080/live/demo/12345/14813.m3u8
+#EXTINF:0,ABP News UK
+http://clientportal.link:8080/live/demo/12345/14853.m3u8
+#EXTINF:0,Aastha UK
+http://clientportal.link:8080/live/demo/12345/15061.m3u8
+#EXTINF:0,Ahlulbayt TV UK
+http://clientportal.link:8080/live/demo/12345/15060.m3u8
+#EXTINF:0,Al Arabiya UK
+http://clientportal.link:8080/live/demo/12345/14852.m3u8
+#EXTINF:0,BBC ALBA UK
+http://clientportal.link:8080/live/demo/12345/14703.m3u8
+#EXTINF:0,Believe TV UK
+http://clientportal.link:8080/live/demo/12345/15058.m3u8
+#EXTINF:0,Best Direct UK
+http://clientportal.link:8080/live/demo/12345/14849.m3u8
+#EXTINF:0,Brit Asia TV UK
+http://clientportal.link:8080/live/demo/12345/15057.m3u8
+#EXTINF:0,CNN HD UK
+http://clientportal.link:8080/live/demo/12345/14726.m3u8
+#EXTINF:0,Channel AKA UK
+http://clientportal.link:8080/live/demo/12345/14804.m3u8
+#EXTINF:0,Channels 24 UK
+http://clientportal.link:8080/live/demo/12345/14803.m3u8
+#EXTINF:0,Comedy Central Ireland UK
+http://clientportal.link:8080/live/demo/12345/14846.m3u8
+#EXTINF:0,ComedyXtra Ireland UK
+http://clientportal.link:8080/live/demo/12345/14844.m3u8
+#EXTINF:0,Craft Channel UK
+http://clientportal.link:8080/live/demo/12345/15049.m3u8
+#EXTINF:0,Create & Craft UK
+http://clientportal.link:8080/live/demo/12345/15048.m3u8
+#EXTINF:0,Discovery Ireland UK
+http://clientportal.link:8080/live/demo/12345/14769.m3u8
+#EXTINF:0,E! Ireland UK
+http://clientportal.link:8080/live/demo/12345/14801.m3u8
+#EXTINF:0,ETV1 UK
+http://clientportal.link:8080/live/demo/12345/14675.m3u8
+#EXTINF:0,ETV2 UK
+http://clientportal.link:8080/live/demo/12345/14674.m3u8
+#EXTINF:0,ETV5 UK
+http://clientportal.link:8080/live/demo/12345/14673.m3u8
+#EXTINF:0,ETV6 UK
+http://clientportal.link:8080/live/demo/12345/14672.m3u8
+#EXTINF:0,EWTN Catholic UK
+http://clientportal.link:8080/live/demo/12345/15046.m3u8
+#EXTINF:0,Eman Channel UK
+http://clientportal.link:8080/live/demo/12345/14800.m3u8
+#EXTINF:0,Flow TV UK
+http://clientportal.link:8080/live/demo/12345/15044.m3u8
+#EXTINF:0,FrontRunner UK
+http://clientportal.link:8080/live/demo/12345/15043.m3u8
+#EXTINF:0,GEO TEZ UK
+http://clientportal.link:8080/live/demo/12345/15041.m3u8
+#EXTINF:0,GEO TV UK
+http://clientportal.link:8080/live/demo/12345/14838.m3u8
+#EXTINF:0,GOD Channel UK
+http://clientportal.link:8080/live/demo/12345/15040.m3u8
+#EXTINF:0,GR SHOP UK
+http://clientportal.link:8080/live/demo/12345/15038.m3u8
+#EXTINF:0,Glory TV UK
+http://clientportal.link:8080/live/demo/12345/14837.m3u8
+#EXTINF:0,Gospel Channel UK
+http://clientportal.link:8080/live/demo/12345/15039.m3u8
+#EXTINF:0,High Street TV 2 UK
+http://clientportal.link:8080/live/demo/12345/14775.m3u8
+#EXTINF:0,High Street TV 3 UK
+http://clientportal.link:8080/live/demo/12345/15035.m3u8
+#EXTINF:0,High Street TV UK
+http://clientportal.link:8080/live/demo/12345/15036.m3u8
+#EXTINF:0,Hochanda UK
+http://clientportal.link:8080/live/demo/12345/15034.m3u8
+#EXTINF:0,ID +1 UK
+http://clientportal.link:8080/live/demo/12345/14831.m3u8
+#EXTINF:0,ITV 1 Westcountry South West UK
+http://clientportal.link:8080/live/demo/12345/14725.m3u8
+#EXTINF:0,ITV Border UK
+http://clientportal.link:8080/live/demo/12345/14724.m3u8
+#EXTINF:0,ITV Central West HD UK
+http://clientportal.link:8080/live/demo/12345/14722.m3u8
+#EXTINF:0,ITV Central West+1 UK
+http://clientportal.link:8080/live/demo/12345/14723.m3u8
+#EXTINF:0,ITV Meridian South East HD UK
+http://clientportal.link:8080/live/demo/12345/14717.m3u8
+#EXTINF:0,ITV Meridian South East UK
+http://clientportal.link:8080/live/demo/12345/14718.m3u8
+#EXTINF:0,ITV Meridian South UK
+http://clientportal.link:8080/live/demo/12345/14719.m3u8
+#EXTINF:0,ITV Tyne Tees UK
+http://clientportal.link:8080/live/demo/12345/14716.m3u8
+#EXTINF:0,ITV Westcountry South West+1 UK
+http://clientportal.link:8080/live/demo/12345/14715.m3u8
+#EXTINF:0,ITV Yorkshire West HD UK
+http://clientportal.link:8080/live/demo/12345/14713.m3u8
+#EXTINF:0,ITV Yorkshire West UK
+http://clientportal.link:8080/live/demo/12345/14714.m3u8
+#EXTINF:0,Ideal Extra UK
+http://clientportal.link:8080/live/demo/12345/15033.m3u8
+#EXTINF:0,Inspiration  UK
+http://clientportal.link:8080/live/demo/12345/14810.m3u8
+#EXTINF:0,Inspiration UK
+http://clientportal.link:8080/live/demo/12345/15032.m3u8
+#EXTINF:0,Islam Ch Urdu UK
+http://clientportal.link:8080/live/demo/12345/15031.m3u8
+#EXTINF:0,Islam Channel UK
+http://clientportal.link:8080/live/demo/12345/15030.m3u8
+#EXTINF:0,JML Direct UK
+http://clientportal.link:8080/live/demo/12345/14830.m3u8
+#EXTINF:0,MATV National UK
+http://clientportal.link:8080/live/demo/12345/15029.m3u8
+#EXTINF:0,mta-muslim tv UK
+http://clientportal.link:8080/live/demo/12345/15028.m3u8
+#EXTINF:0,My Channel UK
+http://clientportal.link:8080/live/demo/12345/15027.m3u8
+#EXTINF:0,My5 UK
+http://clientportal.link:8080/live/demo/12345/14709.m3u8
+#EXTINF:0,NOW Music UK
+http://clientportal.link:8080/live/demo/12345/15024.m3u8
+#EXTINF:0,News18 UK
+http://clientportal.link:8080/live/demo/12345/15026.m3u8
+#EXTINF:0,Nick Jr Peppa Ireland UK
+http://clientportal.link:8080/live/demo/12345/14827.m3u8
+#EXTINF:0,Noor TV UK
+http://clientportal.link:8080/live/demo/12345/15025.m3u8
+#EXTINF:0,Oireachtas TV UK
+http://clientportal.link:8080/live/demo/12345/14936.m3u8
+#EXTINF:0,Olive TV UK
+http://clientportal.link:8080/live/demo/12345/14796.m3u8
+#EXTINF:0,Ove World Tv UK
+http://clientportal.link:8080/live/demo/12345/14772.m3u8
+#EXTINF:0,PCNE Chinese UK
+http://clientportal.link:8080/live/demo/12345/15023.m3u8
+#EXTINF:0,PTC PUNJABI UK
+http://clientportal.link:8080/live/demo/12345/15020.m3u8
+#EXTINF:0,Property Show UK
+http://clientportal.link:8080/live/demo/12345/14794.m3u8
+#EXTINF:0,Psychic Today UK
+http://clientportal.link:8080/live/demo/12345/14771.m3u8
+#EXTINF:0,QVC UK
+http://clientportal.link:8080/live/demo/12345/14935.m3u8
+#EXTINF:0,RT.jr UK
+http://clientportal.link:8080/live/demo/12345/14927.m3u8
+#EXTINF:0,Racing UK HD UK
+http://clientportal.link:8080/live/demo/12345/15019.m3u8
+#EXTINF:0,Real Lives +1 UK
+http://clientportal.link:8080/live/demo/12345/14931.m3u8
+#EXTINF:0,Retail TV UK
+http://clientportal.link:8080/live/demo/12345/14822.m3u8
+#EXTINF:0,revelation UK
+http://clientportal.link:8080/live/demo/12345/15018.m3u8
+#EXTINF:0,RishteyCine UK
+http://clientportal.link:8080/live/demo/12345/15017.m3u8
+#EXTINF:0,Rocks & Co 1 UK
+http://clientportal.link:8080/live/demo/12345/15016.m3u8
+#EXTINF:0,SONY SAB UK
+http://clientportal.link:8080/live/demo/12345/14820.m3u8
+#EXTINF:0,STV East UK
+http://clientportal.link:8080/live/demo/12345/14708.m3u8
+#EXTINF:0,STV East+1 UK
+http://clientportal.link:8080/live/demo/12345/14707.m3u8
+#EXTINF:0,STV North UK
+http://clientportal.link:8080/live/demo/12345/14706.m3u8
+#EXTINF:0,STV West UK
+http://clientportal.link:8080/live/demo/12345/14705.m3u8
+#EXTINF:0,Safeer TV UK
+http://clientportal.link:8080/live/demo/12345/14793.m3u8
+#EXTINF:0,Sangat UK
+http://clientportal.link:8080/live/demo/12345/15015.m3u8
+#EXTINF:0,Showcase 3 UK
+http://clientportal.link:8080/live/demo/12345/14792.m3u8
+#EXTINF:0,Showcase UK
+http://clientportal.link:8080/live/demo/12345/15014.m3u8
+#EXTINF:0,Sky Sports 1 (a) UK
+http://clientportal.link:8080/live/demo/12345/14753.m3u8
+#EXTINF:0,Sky Sports 1 (b) UK
+http://clientportal.link:8080/live/demo/12345/14752.m3u8
+#EXTINF:0,Sky Sports 1 (c) UK
+http://clientportal.link:8080/live/demo/12345/14751.m3u8
+#EXTINF:0,Sky Sports 2 (a) UK
+http://clientportal.link:8080/live/demo/12345/14750.m3u8
+#EXTINF:0,Sky Sports 2 (b) UK
+http://clientportal.link:8080/live/demo/12345/14749.m3u8
+#EXTINF:0,Sky Sports 2 (c) UK
+http://clientportal.link:8080/live/demo/12345/14748.m3u8
+#EXTINF:0,Sky Sports 3 (a) UK
+http://clientportal.link:8080/live/demo/12345/14747.m3u8
+#EXTINF:0,Sky Sports 3 (b) UK
+http://clientportal.link:8080/live/demo/12345/14746.m3u8
+#EXTINF:0,Sky Sports 3 (c) UK
+http://clientportal.link:8080/live/demo/12345/14745.m3u8
+#EXTINF:0,Sky Sports 4 (a) UK
+http://clientportal.link:8080/live/demo/12345/14744.m3u8
+#EXTINF:0,Sky Sports 4 (b) UK
+http://clientportal.link:8080/live/demo/12345/14743.m3u8
+#EXTINF:0,Sky Sports 5 (a) UK
+http://clientportal.link:8080/live/demo/12345/14742.m3u8
+#EXTINF:0,Sky Sports 5 (b) UK
+http://clientportal.link:8080/live/demo/12345/14741.m3u8
+#EXTINF:0,Sky Sports 5 (c) UK
+http://clientportal.link:8080/live/demo/12345/14740.m3u8
+#EXTINF:0,Sky Sports F1 (a) UK
+http://clientportal.link:8080/live/demo/12345/14739.m3u8
+#EXTINF:0,SkyNws Arabia UK
+http://clientportal.link:8080/live/demo/12345/14925.m3u8
+#EXTINF:0,SonLife UK
+http://clientportal.link:8080/live/demo/12345/15013.m3u8
+#EXTINF:0,Star Plus UK
+http://clientportal.link:8080/live/demo/12345/14788.m3u8
+#EXTINF:0,Star Utsav UK
+http://clientportal.link:8080/live/demo/12345/14787.m3u8
+#EXTINF:0,TBN UK UK
+http://clientportal.link:8080/live/demo/12345/15008.m3u8
+#EXTINF:0,TJC Choice UK
+http://clientportal.link:8080/live/demo/12345/15005.m3u8
+#EXTINF:0,TJC UK
+http://clientportal.link:8080/live/demo/12345/15006.m3u8
+#EXTINF:0,TLC Ireland UK
+http://clientportal.link:8080/live/demo/12345/14764.m3u8
+#EXTINF:0,TV 99 UK
+http://clientportal.link:8080/live/demo/12345/15004.m3u8
+#EXTINF:0,TV One UK
+http://clientportal.link:8080/live/demo/12345/15059.m3u8
+#EXTINF:0,TV Warehouse UK
+http://clientportal.link:8080/live/demo/12345/14816.m3u8
+#EXTINF:0,Takbeer TV UK
+http://clientportal.link:8080/live/demo/12345/15009.m3u8
+#EXTINF:0,Thane UK
+http://clientportal.link:8080/live/demo/12345/15007.m3u8
+#EXTINF:0,Tristar UK
+http://clientportal.link:8080/live/demo/12345/14817.m3u8
+#EXTINF:0,UTV UK
+http://clientportal.link:8080/live/demo/12345/14704.m3u8
+#EXTINF:0,Ummah CH UK
+http://clientportal.link:8080/live/demo/12345/15003.m3u8
+#EXTINF:0,Universal Ireland UK
+http://clientportal.link:8080/live/demo/12345/14781.m3u8
+#EXTINF:0,BBC One CI UK
+http://clientportal.link:8080/live/demo/12345/14700.m3u8
+#EXTINF:0,BBC One E Mid UK
+http://clientportal.link:8080/live/demo/12345/14699.m3u8
+#EXTINF:0,BBC One East E UK
+http://clientportal.link:8080/live/demo/12345/14698.m3u8
+#EXTINF:0,BBC One East W UK
+http://clientportal.link:8080/live/demo/12345/14697.m3u8
+#EXTINF:0,BBC One N West UK
+http://clientportal.link:8080/live/demo/12345/14696.m3u8
+#EXTINF:0,BBC One NE&C UK
+http://clientportal.link:8080/live/demo/12345/14695.m3u8
+#EXTINF:0,BBC One NI HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14693.m3u8
+#EXTINF:0,BBC One NI UK
+http://clientportal.link:8080/live/demo/12345/14694.m3u8
+#EXTINF:0,BBC One Oxford UK
+http://clientportal.link:8080/live/demo/12345/14692.m3u8
+#EXTINF:0,BBC One S East UK
+http://clientportal.link:8080/live/demo/12345/14691.m3u8
+#EXTINF:0,BBC One S West UK
+http://clientportal.link:8080/live/demo/12345/14690.m3u8
+#EXTINF:0,BBC One Scotland HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14688.m3u8
+#EXTINF:0,BBC One Scotland  UK
+http://clientportal.link:8080/live/demo/12345/14689.m3u8
+#EXTINF:0,BBC One South UK
+http://clientportal.link:8080/live/demo/12345/14687.m3u8
+#EXTINF:0,BBC One W Mid UK
+http://clientportal.link:8080/live/demo/12345/14686.m3u8
+#EXTINF:0,BBC One Wales HD 1080P UK
+http://clientportal.link:8080/live/demo/12345/14685.m3u8
+#EXTINF:0,BBC One West UK
+http://clientportal.link:8080/live/demo/12345/14684.m3u8
+#EXTINF:0,BBC One Yk&Li UK
+http://clientportal.link:8080/live/demo/12345/14683.m3u8
+#EXTINF:0,BBC One Yorks UK
+http://clientportal.link:8080/live/demo/12345/14682.m3u8
+#EXTINF:0,BBC Two NI UK
+http://clientportal.link:8080/live/demo/12345/14680.m3u8
+#EXTINF:0,BBC Two Scotland UK
+http://clientportal.link:8080/live/demo/12345/14679.m3u8
+#EXTINF:0,BBC Two Wales UK
+http://clientportal.link:8080/live/demo/12345/14678.m3u8
+#EXTINF:0,ITV Box Office 1 UK
+http://clientportal.link:8080/live/demo/12345/15874.m3u8
+#EXTINF:0,ITV Box Office 1 HD UK
+http://clientportal.link:8080/live/demo/12345/15873.m3u8
+#EXTINF:0,ITV Box Office 2 HD UK
+http://clientportal.link:8080/live/demo/12345/15872.m3u8
+#EXTINF:0,ITV Box Office 3 HD UK
+http://clientportal.link:8080/live/demo/12345/15871.m3u8
+#EXTINF:0,ITV Box Office 4 HD UK
+http://clientportal.link:8080/live/demo/12345/15870.m3u8
+#EXTINF:0,ITV Box Office 5 HD UK
+http://clientportal.link:8080/live/demo/12345/15869.m3u8
+#EXTINF:0,ITV Box Office 6 HD UK
+http://clientportal.link:8080/live/demo/12345/15868.m3u8
+#EXTINF:0,ITV Box Office 7 HD UK
+http://clientportal.link:8080/live/demo/12345/15867.m3u8
+#EXTINF:0,ITV Box Office 1 HD UK 1080P
+http://clientportal.link:8080/live/demo/12345/15866.m3u8
+#EXTINF:0,ITV Box Office 2 HD UK 1080P
+http://clientportal.link:8080/live/demo/12345/15865.m3u8
+#EXTINF:0,Fox Sports South US
+http://clientportal.link:8080/live/demo/12345/13693.m3u8
+#EXTINF:0,HGTV US
+http://clientportal.link:8080/live/demo/12345/13835.m3u8
+#EXTINF:0,NFL Network / Now US
+http://clientportal.link:8080/live/demo/12345/13691.m3u8
+#EXTINF:0,NFL Network Now US
+http://clientportal.link:8080/live/demo/12345/13690.m3u8
+#EXTINF:0,NHL Network US
+http://clientportal.link:8080/live/demo/12345/13688.m3u8
+#EXTINF:0,Fox Sports West US
+http://clientportal.link:8080/live/demo/12345/13692.m3u8
+#EXTINF:0,Willow Cricket HD US
+http://clientportal.link:8080/live/demo/12345/13689.m3u8
+#EXTINF:0,VH1 Classic US
+http://clientportal.link:8080/live/demo/12345/12059.m3u8
+#EXTINF:0,VH1 US
+http://clientportal.link:8080/live/demo/12345/12058.m3u8
+#EXTINF:0,Sport 1 HD US
+http://clientportal.link:8080/live/demo/12345/7325.m3u8
+#EXTINF:0,Animal Planet HD US
+http://clientportal.link:8080/live/demo/12345/12060.m3u8
+#EXTINF:0,Nick Jr. US
+http://clientportal.link:8080/live/demo/12345/12061.m3u8
+#EXTINF:0,MTV Rocks US
+http://clientportal.link:8080/live/demo/12345/12062.m3u8
+#EXTINF:0,MTV Hits US
+http://clientportal.link:8080/live/demo/12345/12063.m3u8
+#EXTINF:0,MTV Dance US
+http://clientportal.link:8080/live/demo/12345/12064.m3u8
+#EXTINF:0,Discovery Channel HD US
+http://clientportal.link:8080/live/demo/12345/15717.m3u8
+#EXTINF:0,FOX HD US
+http://clientportal.link:8080/live/demo/12345/15716.m3u8
+#EXTINF:0,History HD US
+http://clientportal.link:8080/live/demo/12345/15712.m3u8
+#EXTINF:0,National Geographic HD US
+http://clientportal.link:8080/live/demo/12345/15714.m3u8
+#EXTINF:0,The CW HD US
+http://clientportal.link:8080/live/demo/12345/15718.m3u8
+#EXTINF:0,PBS US
+http://clientportal.link:8080/live/demo/12345/15715.m3u8
